@@ -1,0 +1,50 @@
+**Privacy Policy**
+
+Last Updated: 10/15/2023
+
+Hope Eternal Partnership Enterprise ("we," "us," or "our") is committed to protecting the privacy and security of the information collected from or about users of our mobile application(s) (the "App"). This Privacy Policy outlines our practices regarding the collection, use, handling, and sharing of user data, specifically the hashed version of device information used for records lookup and purchase associations, as required by Google Play Developer Program policies. By using our App, you consent to the practices described in this Privacy Policy.
+
+**1. Information We Collect**
+
+We collect a hashed device information for the sole purpose of records lookup and purchase associations. This information is used to enhance the functionality of our App and provide a better user experience.
+
+**2. Use of Information**
+
+The hashed device information we collect is used exclusively for the following purposes:
+
+- Records lookup.
+- Purchase associations.
+
+We do not sell, share, or disclose this information to third parties for monetary consideration.
+
+**3. Data Security**
+
+We take the security of your information seriously and employ modern cryptography techniques, such as HTTPS, to securely transmit and handle the hashed device information.
+
+**4. User Data Deletion**
+
+If you create an account within our App, we provide you with the option to request the deletion of your account, in accordance with Google Play's User Data policy. You can initiate this request through the App or via our web resource.
+
+**5. Prominent Disclosure & Consent**
+
+Since our App collects hashed device information, which does not fall under personal and sensitive user data as defined by Google Play, we do not require prominent disclosure and consent as outlined in Google Play's User Data policy.
+
+**6. Contact Information**
+
+If you have any questions or concerns regarding our privacy practices or this Privacy Policy, you may contact us at support@askdaokapra.com
+
+**7. Changes to this Privacy Policy**
+
+We may update this Privacy Policy to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will provide notice of any significant changes by posting the updated Privacy Policy on our website or within the App.
+
+By continuing to use the App after such changes are made, you signify your agreement to the revised Privacy Policy. Therefore, it is essential to review this Privacy Policy periodically for any updates.
+
+**8. Compliance with Applicable Laws**
+
+We comply with all applicable privacy and data protection laws, including but not limited to Google Play policies and regulations.
+
+**9. EU-U.S., Swiss Privacy Shield**
+
+We do not process EU Personal Information, as defined in the EU-U.S. and Swiss Privacy Shield section, and therefore, this section does not apply to our App.
+
+This Privacy Policy was last updated on the date specified above and is effective from that date.
